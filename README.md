@@ -3,11 +3,11 @@
   <h3> Hi everyone, I'm Rickelme and welcome to my github profile. 👋👨🏻‍💻 </h3>
 </div>
 
-<div><br>
+<div style="display: inline_block" align="center"><br>
   <a href="https://github.com/RickelmeDias">
     <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickelmeDias&layout=compact&langs_count=7&theme=tokyonight"/>
     <img height="180em" align="left" alt="Rickelme draw" src="https://user-images.githubusercontent.com/43411893/127868207-79fc5204-8d61-47b9-aa82-f45fd3fd2eef.png"/>
-  </a>
+  </a><br>
 </div>
 
 <div style="display: inline_block" align="center"><br><br>
